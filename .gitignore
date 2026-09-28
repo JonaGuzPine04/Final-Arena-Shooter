@@ -1,0 +1,10 @@
+# Unreal Engine temporary and cached folders
+Final_Arena_Shooter/Binaries/
+Final_Arena_Shooter/Build/
+Final_Arena_Shooter/DerviedDataCache/
+Final_Arena_Shooter/Intermediate/
+Final_Arena_Shooter/Saved/
+
+#Personal settings and source control locks
+Final_Arena_Shooter/.vs/
+Final_Arena_Shooter/*.sln
